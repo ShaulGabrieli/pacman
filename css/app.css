@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(0, 0, 36);
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+
+.modal-display {
+    display: none;
+}
+
+.modal {
+    position: absolute;
+    background-color: rgb(192, 225, 255);
+    color: black;
+    width: 200px;
+    height: 100px;
+}
+.board-container{
+    margin: 200px auto;
+    display: table;
+}
+
+
+ 
